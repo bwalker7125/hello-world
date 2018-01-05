@@ -1,2 +1,2 @@
 # hello-world
-test repository to confirm github is working properu
+test repository to confirm github is working properly
